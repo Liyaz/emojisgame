@@ -1,0 +1,12 @@
+/* Write your code here. */
+.bgCont {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+}
+.unis {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  justify-content: space-between;
+}

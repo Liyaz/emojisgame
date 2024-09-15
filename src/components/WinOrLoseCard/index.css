@@ -1,0 +1,54 @@
+/* Write your code here. */
+.playButton {
+  background-color: #ffce27;
+  border-radius: 13px;
+  border-width: 0px;
+  text-align: center;
+  color: #3d3d3d;
+  font-family: 'Roboto';
+  font-size: 13px;
+  height: 30px;
+  width: 80px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+.resCard {
+  background-color: transparent;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-sep {
+  border-radius: 10px;
+  border: 2px solid #ffffff30;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px;
+}
+.resImg {
+  height: 60vh;
+  margin-left: 50px;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.score {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #6a59ff;
+  font-weight: bold;
+  margin-left: 35px;
+}

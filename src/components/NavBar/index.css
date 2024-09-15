@@ -1,0 +1,40 @@
+/* Write your code here. */
+.navBg {
+  background-color: transparent;
+  height: 17vh;
+  padding: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  box-shadow: 5px 5px #9796f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navEl {
+  display: flex;
+  justify-content: space-between;
+}
+.navPara1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-left: 7px;
+}
+.navImg {
+  margin-top: 5px;
+  height: 9vh;
+}
+.navPara2 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.navPara3 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-left: 15px;
+}
